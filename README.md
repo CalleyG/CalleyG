@@ -20,11 +20,11 @@
 </div>
 <img align="right" alt="Coding Image" width="400" src="https://c.tenor.com/0LLgfhThKwsAAAAM/aesthetic-room.gif">
 
-- 🔭 I’m currently working on [My Portfolio](http://garvinc518.macombserver.net/itwp2300/portfolio_CalleyGarvin/)
+- 🔭 I’m currently working on [Seeking Employment]
 
 - 🌱 I’m currently learning **Web Development as a whole.**
 
-- 👨‍💻 All of my projects are available at [http://garvinc518.macombserver.net/itwp2300/portfolio_CalleyGarvin/](http://garvinc518.macombserver.net/itwp2300/portfolio_CalleyGarvin/)
+- 👨‍💻 All of my projects are available at [https://calleyg.github.io/My_Portfolio.github.io/](https://calleyg.github.io/My_Portfolio.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP.**
 
