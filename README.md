@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **calleygarvin@gmail.com**
 
-- ⚡ Fun fact **I am easy to be trained and dedicated.**
+- ⚡ Fun fact **I am easily trainable, eager to learn new concepts, efficient, and dedicated.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
